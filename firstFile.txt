@@ -2,4 +2,5 @@ Hi
 Bye
 new line added
 Bye
+--new text added
 
